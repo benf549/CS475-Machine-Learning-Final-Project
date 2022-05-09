@@ -1,8 +1,10 @@
+Writeup Notebook: writeup.ipynb
+
 Account Login Information:
 
 - Google Account:
   - **Name**: BAC FSP
-  - **Username**: cs475.spotify.rec.algo@google.com
+  - **Username**: cs475.spotify.rec.algo@gmail.com
   - **Password**: !1WeLoveMachineLearning1!
 
 - Spotify Account:

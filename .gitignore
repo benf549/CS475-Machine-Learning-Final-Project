@@ -3,3 +3,4 @@
 playlist_membership_labels.npy
 playlist_membership_data.npy
 challenge_set.json
+.DS_Store
